@@ -1,2 +1,1 @@
 # randypisite
-This AlexFlipNote template
